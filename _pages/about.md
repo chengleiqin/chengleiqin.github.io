@@ -10,30 +10,41 @@ redirect_from:
 
 1990年生，安徽六安人，博士，现为大数据教研室讲师。2023年毕业于南京理工大学信息管理系管理科学与工程专业，获管理学博士学位。
 
+研究方向
+------
+* 自然语言处理
+* 文本挖掘
+* 科学计量
+
 科研情况
 ------
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* 基于学术文献全文内容的细粒度算法实体抽取与评估研究（国家自然科学基金面上项目，参与）
+* 大数据环境下同行评议特征要素分析与关键问题研究（中国科学技术信息研究所情报工程实验室开放基金，参与）
+* 情报学学科建设与情报工作未来发展路径研究 子课题：情报学方法与技术体系（国家社科重大项目，参与）
+* 中文在线评论中用户对产品属性关注与情感倾向演化研究（江苏省研究生科研与实践创新计划项目，主持）
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 代表成果
 ------
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* Which Structure of Academic Articles do Referees Pay more Attention to? Perspective of Peer Review and Full Text of Academic Articles[J]. Aslib Journal of Information Management, 2022, https://doi.org/10.1108/AJIM-05-2022-0244. (第一作者，SCI/SSCI) 
+* Chenglei Qin, Chengzhi Zhang, Yi Bu. Exploring the Distribution Regularities of User Attention and Sentiment toward Product Aspects in Online Reviews[J]. The Electronic Library, 2021, 39(4): 615-638. (第一作者，SSCI)
+* Building the Multidimensional Semantic Index of Webpages for Facet Extraction[J]. International Journal of Cognitive Informatics and Natural Intelligence, 2015, 9(2): 1-23. (第二作者，EI)
+* 同行评审意见类型识别及其在不同被引频次下的分布研究[J]. 图书情报工作, 2022, 66(13), 102-117. (第一作者，CSSCI源刊)
+* 大数据环境下同行评议面临的问题与对策[J]. 情报理论与实践, 2021, 44(4): 99-112. (第一作者，CSSCI源刊)
+* 基于层次注意力网络模型的学术文本结构功能识别[J]. 数据分析与知识发现, 2020, 4(11): 26-42. (第一作者，CSSCI源刊)
+* 中文在线评论中的产品新属性识别研究[J]. 信息资源管理学报, 2020, 10(03): 78-91. (第一作者，CSSCI源刊)
 
-研究方向
+
+获奖情况
 ------
-自然语言处理\
-文本挖掘\
-科学计量
+* 中国情报学年会暨情报学与情报工作发展论坛优秀论文奖
+* 全国情报学博士生学术论坛论文一等奖
+* 南京理工大学一等学业奖学金
+* 研究生国家奖学金
 
-欢迎具有一定的编程基础、数理基础、英文读写能力，并对上述研究方向感兴趣的同学与我联系。
 
 联系方式
 ------
+欢迎具有一定的编程基础、数理基础、英文读写能力，并对上述研究方向感兴趣的同学与我联系。\
 Email:clqin@njust.edu.cn
 
