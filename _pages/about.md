@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "基本情况"
+title: "秦成磊"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
