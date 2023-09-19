@@ -27,8 +27,8 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 研究方向
 ------
-自然语言处理
-文本挖掘
+自然语言处理\
+文本挖掘\
 科学计量
 
 欢迎具有一定的编程基础、数理基础、英文读写能力，并对上述研究方向感兴趣的同学与我联系。
@@ -37,8 +37,3 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 ------
 Email:clqin@njust.edu.cn
 
-
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
