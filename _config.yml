@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : <center>"秦成磊"</centern>
+  name             : <center>"秦成磊"</center>
   avatar           : "profile.png"
   bio              : <center>"现就职于阜阳师范大学计算机与信息工程学院"</center>
-  location         : "中国 阜阳"
+  location         : <center>"中国 阜阳"</center>
   employer         : #
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
