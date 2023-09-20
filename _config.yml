@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : <center>秦成磊</center>
+  name             : "秦成磊"
   avatar           : "profile.png"
-  bio              : <center>现就职于阜阳师范大学计算机与信息工程学院</center>
+  bio              : "现就职于阜阳师范大学计算机与信息工程学院"
   location         : "中国 阜阳"
   employer         : #
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  <center>email            : "clqin@njust.edu.cn"</center>
+  email            : "clqin@njust.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
