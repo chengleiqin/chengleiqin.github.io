@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "秦成磊"
+title: "基本情况"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,14 +11,14 @@ redirect_from:
   博士，大数据教研室讲师。毕业于南京理工大学管理科学与工程专业，获管理学博士学位。
 
 研究方向
-------
+======
 * 自然语言处理
 * 文本挖掘
 * 科学计量
 
 
 科研情况
-------
+======
 * 基于学术文献全文内容的细粒度算法实体抽取与评估研究（国家自然科学基金面上项目，参与）
 * 大数据环境下同行评议特征要素分析与关键问题研究（中国科学技术信息研究所情报工程实验室开放基金，参与）
 * 情报学学科建设与情报工作未来发展路径研究 子课题：情报学方法与技术体系（国家社科重大项目，参与）
@@ -26,7 +26,7 @@ redirect_from:
 
   
 代表成果
-------
+======
 * Which Structure of Academic Articles do Referees Pay more Attention to? Perspective of Peer Review and Full Text of Academic Articles[J]. Aslib Journal of Information Management, 2023, 75(5), 884-916. (第一作者，SCI/SSCI) 
 * Chenglei Qin, Chengzhi Zhang, Yi Bu. Exploring the Distribution Regularities of User Attention and Sentiment toward Product Aspects in Online Reviews[J]. The Electronic Library, 2021, 39(4): 615-638. (第一作者，SSCI)
 * Building the Multidimensional Semantic Index of Webpages for Facet Extraction[J]. International Journal of Cognitive Informatics and Natural Intelligence, 2015, 9(2): 1-23. (第二作者，EI)
@@ -37,7 +37,7 @@ redirect_from:
 
 
 获奖情况
-------
+======
 * 中国情报学年会暨情报学与情报工作发展论坛优秀论文奖
 * 全国情报学博士生学术论坛论文一等奖
 * 南京理工大学一等学业奖学金
@@ -45,14 +45,14 @@ redirect_from:
 
 
 承担课程
-------
+======
 * 信息技术应用
 * 大学计算机基础
 * 机器学习实践
 
   
 联系方式
-------
+======
 欢迎具有一定的编程基础、数理基础、英文读写能力，并对上述研究方向感兴趣的同学与我联系。
 
 Email: clqin@njust.edu.cn
