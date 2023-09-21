@@ -28,7 +28,7 @@ redirect_from:
 代表成果
 ------
 * Which Structure of Academic Articles do Referees Pay more Attention to? Perspective of Peer Review and Full Text of Academic Articles[J]. Aslib Journal of Information Management, 2023, 75(5), 884-916. (第一作者，SCI/SSCI) 
-* Chenglei Qin, Chengzhi Zhang, Yi Bu. Exploring the Distribution Regularities of User Attention and Sentiment toward Product Aspects in Online Reviews[J]. The Electronic Library, 2021, 39(4): 615-638. (第一作者，SSCI)
+* Exploring the Distribution Regularities of User Attention and Sentiment toward Product Aspects in Online Reviews[J]. The Electronic Library, 2021, 39(4): 615-638. (第一作者，SSCI)
 * Building the Multidimensional Semantic Index of Webpages for Facet Extraction[J]. International Journal of Cognitive Informatics and Natural Intelligence, 2015, 9(2): 1-23. (第二作者，EI)
 * 同行评审意见类型识别及其在不同被引频次下的分布研究[J]. 图书情报工作, 2022, 66(13), 102-117. (第一作者，CSSCI源刊)
 * 大数据环境下同行评议面临的问题与对策[J]. 情报理论与实践, 2021, 44(4): 99-112. (第一作者，CSSCI源刊)
@@ -48,7 +48,7 @@ redirect_from:
 ------
 * 信息技术应用
 * 大学计算机基础
-* 机器学习实践
+* 机器学习
 
   
 联系方式
