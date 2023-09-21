@@ -6,9 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
 
-安徽六安人，博士，现为大数据教研室讲师。2023年毕业于南京理工大学信息管理系管理科学与工程专业，获管理学博士学位。
+博士，大数据教研室讲师。2023年毕业于南京理工大学管理科学与工程专业，获管理学博士学位。
 
 研究方向
 ------
@@ -17,12 +16,6 @@ redirect_from:
 * 科学计量
 
 
-承担课程
-------
-* 信息技术应用
-* 大学计算机基础
-* 机器学习实践
-
 科研情况
 ------
 * 基于学术文献全文内容的细粒度算法实体抽取与评估研究（国家自然科学基金面上项目，参与）
@@ -30,7 +23,7 @@ redirect_from:
 * 情报学学科建设与情报工作未来发展路径研究 子课题：情报学方法与技术体系（国家社科重大项目，参与）
 * 中文在线评论中用户对产品属性关注与情感倾向演化研究（江苏省研究生科研与实践创新计划项目，主持）
 
-
+  
 代表成果
 ------
 * Which Structure of Academic Articles do Referees Pay more Attention to? Perspective of Peer Review and Full Text of Academic Articles[J]. Aslib Journal of Information Management, 2023, 75(5), 884-916. (第一作者，SCI/SSCI) 
@@ -50,6 +43,13 @@ redirect_from:
 * 研究生国家奖学金
 
 
+承担课程
+------
+* 信息技术应用
+* 大学计算机基础
+* 机器学习实践
+
+  
 联系方式
 ------
 欢迎具有一定的编程基础、数理基础、英文读写能力，并对上述研究方向感兴趣的同学与我联系。
