@@ -14,7 +14,8 @@ redirect_from:
 ------
 * 自然语言处理
 * 文本挖掘
-* 科学计量
+* 信息计量
+* 科学评价
 
 
 科研情况
@@ -29,13 +30,13 @@ redirect_from:
   
 代表成果
 ------
-* Chenglei Qin, Chengzhi Zhang. Which Structure of Academic Articles do Referees Pay more Attention to? Perspective of Peer Review and Full Text of Academic Articles[J]. Aslib Journal of Information Management, 2023, 75(5), 884-916.
-* Chenglei Qin, Chengzhi Zhang, Yi Bu. Exploring the Distribution Regularities of User Attention and Sentiment toward Product Aspects in Online Reviews[J]. The Electronic Library, 2021, 39(4): 615-638.
-* Xiao Wei, Chenglei Qin, Zheng Xu. Building the Multidimensional Semantic Index of Webpages for Facet Extraction[J]. International Journal of Cognitive Informatics and Natural Intelligence, 2015, 9(2): 1-23.
-* 秦成磊,韩茹雪,周昊旻,仲江涛,章成志.同行评审意见类型识别及其在不同被引频次下的分布研究[J].图书情报工作, 2022, 66(13): 102-117.
-* 秦成磊,章成志.大数据环境下同行评议面临的问题与对策[J].情报理论与实践, 2021, 44(4): 99-112.
-* 秦成磊,章成志.基于层次注意力网络模型的学术文本结构功能识别[J].数据分析与知识发现, 2020, 4(11): 26-42.
-* 秦成磊,章成志.中文在线评论中的产品新属性识别研究[J].信息资源管理学报, 2020, 10(03): 78-91.
+* Chenglei Qin, Chengzhi Zhang. Which Structure of Academic Articles do Referees Pay more Attention to? Perspective of Peer Review and Full Text of Academic Articles[J]. Aslib Journal of Information Management, 2023, 75(5), 884-916. (SSCI、SCI)
+* Chenglei Qin, Chengzhi Zhang, Yi Bu. Exploring the Distribution Regularities of User Attention and Sentiment toward Product Aspects in Online Reviews[J]. The Electronic Library, 2021, 39(4): 615-638. (SSCI)
+* Xiao Wei, Chenglei Qin, Zheng Xu. Building the Multidimensional Semantic Index of Webpages for Facet Extraction[J]. International Journal of Cognitive Informatics and Natural Intelligence, 2015, 9(2): 1-23. (EI)
+* 秦成磊,韩茹雪,周昊旻,仲江涛,章成志.同行评审意见类型识别及其在不同被引频次下的分布研究[J].图书情报工作, 2022, 66(13): 102-117. (CSSCI源刊)
+* 秦成磊,章成志.大数据环境下同行评议面临的问题与对策[J].情报理论与实践, 2021, 44(4): 99-112. (CSSCI源刊)
+* 秦成磊,章成志.基于层次注意力网络模型的学术文本结构功能识别[J].数据分析与知识发现, 2020, 4(11): 26-42. (CSSCI源刊)
+* 秦成磊,章成志.中文在线评论中的产品新属性识别研究[J].信息资源管理学报, 2020, 10(03): 78-91. (CSSCI源刊)
 
 
 获奖情况
@@ -55,7 +56,7 @@ redirect_from:
   
 联系方式
 ------
-欢迎具有一定的编程基础、数理基础、英文读写能力，并对上述研究方向感兴趣的同学与我联系。
+欢迎具有一定的编程基础、数理基础、英文读写能力，并对上述研究方向感兴趣的同学与我联系（预计2025年度有1个硕士研究生名额）。
 
 Email: clqin@njust.edu.cn
 
