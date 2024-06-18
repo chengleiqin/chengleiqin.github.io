@@ -1,12 +1,11 @@
 ---
 permalink: /
-
+title: "基本情况 <br>------"
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 --- 
-基本情况
-------
 博士，大数据教研室讲师。毕业于南京理工大学管理科学与工程专业，获管理学博士学位。
 
 研究方向
