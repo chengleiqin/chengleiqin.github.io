@@ -9,16 +9,14 @@ redirect_from:
 --- 
 博士，大数据教研室讲师。毕业于南京理工大学管理科学与工程专业，获管理学博士学位。
 
-研究方向
-======
+##研究方向
 * 自然语言处理
 * 文本挖掘
 * 信息计量
 * 科学评价
 
 
-科研情况
-======
+##科研情况
 * 安徽省高等学校科学研究重点项目：基于相位梯度变化的同轴三位条纹投影技术研究，2024.10~2026.12，参与
 * 阜阳师范大学科学研究项目：与被引频次结合的同行评审意见类型多维度分布研究，2023.10~2026.10，主持
 * 国家自然科学基金面上项目（No. 72074113）：基于学术文献全文内容的细粒度算法实体抽取与评估研究，2021.01~2024.12，参与
@@ -27,8 +25,7 @@ redirect_from:
 * 江苏省研究生科研与实践创新计划项目（No. KYCX18_0347）：中文在线评论中用户对产品属性关注与情感倾向演化研究，2018.03~2019.05，主持
 
   
-代表成果
-======
+##代表成果
 * Chenglei Qin, Chengzhi Zhang. Which Structure of Academic Articles do Referees Pay more Attention to? Perspective of Peer Review and Full Text of Academic Articles[J]. Aslib Journal of Information Management, 2023, 75(5), 884-916. (SSCI、SCI)
 * Chenglei Qin, Chengzhi Zhang, Yi Bu. Exploring the Distribution Regularities of User Attention and Sentiment toward Product Aspects in Online Reviews[J]. The Electronic Library, 2021, 39(4): 615-638. (SSCI)
 * Xiao Wei, Chenglei Qin, Zheng Xu. Building the Multidimensional Semantic Index of Webpages for Facet Extraction[J]. International Journal of Cognitive Informatics and Natural Intelligence, 2015, 9(2): 1-23. (EI)
@@ -38,23 +35,20 @@ redirect_from:
 * 秦成磊,章成志.中文在线评论中的产品新属性识别研究[J].信息资源管理学报, 2020, 10(03): 78-91. (CSSCI源刊)
 
 
-获奖情况
-======
+##获奖情况
 * 中国情报学年会暨情报学与情报工作发展论坛优秀论文奖
 * 全国情报学博士生学术论坛论文一等奖
 * 南京理工大学一等学业奖学金
 * 研究生国家奖学金
 
 
-承担课程
-======
+##承担课程
 * 信息技术应用
 * 大学计算机基础
 * 机器学习
 
   
-联系方式
-======
+##联系方式
 欢迎具有一定的编程基础、数理基础、英文读写能力，并对上述研究方向感兴趣的同学与我联系（预计2025年度有1个硕士研究生名额）。
 
 Email: clqin@njust.edu.cn
