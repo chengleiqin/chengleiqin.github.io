@@ -19,21 +19,23 @@ redirect_from:
 
 科研情况
 ------
-* 基于学术文献全文内容的细粒度算法实体抽取与评估研究（国家自然科学基金面上项目，参与）
-* 大数据环境下同行评议特征要素分析与关键问题研究（中国科学技术信息研究所情报工程实验室开放基金，参与）
-* 情报学学科建设与情报工作未来发展路径研究 子课题：情报学方法与技术体系（国家社科重大项目，参与）
-* 中文在线评论中用户对产品属性关注与情感倾向演化研究（江苏省研究生科研与实践创新计划项目，主持）
+* 安徽省高等学校科学研究重点项目：基于相位梯度变化的同轴三位条纹投影技术研究，2024.10~2026.12，参与
+* 阜阳师范大学科学研究项目：与被引频次结合的同行评审意见类型多维度分布研究，2023.10~2026.10，主持
+* 国家自然科学基金面上项目（No. 72074113）：基于学术文献全文内容的细粒度算法实体抽取与评估研究，2021.01~2024.12，参与
+* 中国科学技术信息研究所情报工程实验室开放基金：大数据环境下同行评议特征要素分析与关键问题研究，2019.12~2020.12，主要参与人
+* 国家社科重大项目（No. 17ZDA291）：情报学学科建设与情报工作未来发展路径研究 子课题：情报学方法与技术体系，2017.10~2019.12，参与
+* 江苏省研究生科研与实践创新计划项目（No. KYCX18_0347）：中文在线评论中用户对产品属性关注与情感倾向演化研究，2018.03~2019.05，主持
 
   
 代表成果
 ------
-* Which Structure of Academic Articles do Referees Pay more Attention to? Perspective of Peer Review and Full Text of Academic Articles[J]. Aslib Journal of Information Management, 2023, 75(5), 884-916. (第一作者，SCI/SSCI) 
-* Exploring the Distribution Regularities of User Attention and Sentiment toward Product Aspects in Online Reviews[J]. The Electronic Library, 2021, 39(4): 615-638. (第一作者，SSCI)
-* Building the Multidimensional Semantic Index of Webpages for Facet Extraction[J]. International Journal of Cognitive Informatics and Natural Intelligence, 2015, 9(2): 1-23. (第二作者，EI)
-* 同行评审意见类型识别及其在不同被引频次下的分布研究[J]. 图书情报工作, 2022, 66(13), 102-117. (第一作者，CSSCI源刊)
-* 大数据环境下同行评议面临的问题与对策[J]. 情报理论与实践, 2021, 44(4): 99-112. (第一作者，CSSCI源刊)
-* 基于层次注意力网络模型的学术文本结构功能识别[J]. 数据分析与知识发现, 2020, 4(11): 26-42. (第一作者，CSSCI源刊)
-* 中文在线评论中的产品新属性识别研究[J]. 信息资源管理学报, 2020, 10(03): 78-91. (第一作者，CSSCI源刊)
+* Chenglei Qin, Chengzhi Zhang. Which Structure of Academic Articles do Referees Pay more Attention to? Perspective of Peer Review and Full Text of Academic Articles[J]. Aslib Journal of Information Management, 2023, 75(5), 884-916.
+* Chenglei Qin, Chengzhi Zhang, Yi Bu. Exploring the Distribution Regularities of User Attention and Sentiment toward Product Aspects in Online Reviews[J]. The Electronic Library, 2021, 39(4): 615-638.
+* Xiao Wei, Chenglei Qin, Zheng Xu. Building the Multidimensional Semantic Index of Webpages for Facet Extraction[J]. International Journal of Cognitive Informatics and Natural Intelligence, 2015, 9(2): 1-23.
+* 秦成磊,韩茹雪,周昊旻,仲江涛,章成志.同行评审意见类型识别及其在不同被引频次下的分布研究[J].图书情报工作, 2022, 66(13): 102-117.
+* 秦成磊,章成志.大数据环境下同行评议面临的问题与对策[J].情报理论与实践, 2021, 44(4): 99-112.
+* 秦成磊,章成志.基于层次注意力网络模型的学术文本结构功能识别[J].数据分析与知识发现, 2020, 4(11): 26-42.
+* 秦成磊,章成志.中文在线评论中的产品新属性识别研究[J].信息资源管理学报, 2020, 10(03): 78-91.
 
 
 获奖情况
