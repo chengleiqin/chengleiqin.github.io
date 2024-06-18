@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "基本情况 <br>------"
+title: "基本情况 <br> ------"
 author_profile: true
 redirect_from: 
   - /about/
