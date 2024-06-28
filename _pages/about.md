@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "基本情况"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
