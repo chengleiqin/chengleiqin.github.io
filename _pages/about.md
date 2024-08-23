@@ -56,6 +56,6 @@ redirect_from:
 ------
 欢迎具有一定的编程基础、数理基础、英文读写能力，并对上述研究方向感兴趣的同学与我联系。
 
-Email: clqin@njust.edu.cn
+Email: clqin@fynu.edu.cn
 
 
