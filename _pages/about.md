@@ -59,8 +59,8 @@ redirect_from:
 
 社会服务
 ------
-Scientometrics期刊审稿人
-[群屿知境|GroupMind 科研团队数据管理系统](https://www.groupmind.top)
+Scientometrics期刊审稿人  
+[群屿知境|GroupMind 科研团队数据管理系统] 访问地址：https://www.groupmind.top
   
 联系方式
 ------
